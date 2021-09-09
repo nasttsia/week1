@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "benner_jenya"
+      "X-Author": "benner_jenya",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
